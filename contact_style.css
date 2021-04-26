@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+.TT {
+    color: lawngreen;
+}
+
+button {
+    background-color: aquamarine;
+}
+
+button:hover {
+    background-color: coral;
+}
+
+a {
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 20px;
+}

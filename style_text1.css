@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+p {
+    font-size: 19px;
+    font-family: fantasy;
+}
+button:hover{
+    background-color: coral;
+}
+button{
+   background-color: lightpink; 
+}

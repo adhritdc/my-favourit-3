@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background: linear-gradient:(#17dfe6 0%, #b0f026 100%);
+}
+
+span {
+    display: flex;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
+p {
+    font-size: 19px;
+    font-family: fantasy;
+}
+button:hover{
+    background-color: coral;
+}
+button{
+   background-color: lightpink; 
+}

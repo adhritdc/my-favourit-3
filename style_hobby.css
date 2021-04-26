@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: linear-gradient
+}
+
+#iframe1 {
+    width: 650px;
+    height: 500px;
+}
+
+button {
+    background-color: aqua;
+}
+
+button:hover {
+    background-color: floralwhite;
+    text-decoration-style: double;
+}
+
+html {
+    scroll-behavior: smooth;
+}
