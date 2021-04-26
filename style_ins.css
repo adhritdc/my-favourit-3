@@ -3,7 +3,7 @@ body {
     background: linear-gradient:(#17dfe6 0%, #b0f026 100%);
 }
 
-span {
+div {
     display: flex;
     justify-content: center;
     margin-right: 25px;
